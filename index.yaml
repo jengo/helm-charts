@@ -3,7 +3,7 @@ entries:
   helm-django:
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2019-12-16T17:02:27.867876-08:00"
+    created: "2019-12-16T17:21:42.019896-08:00"
     description: A Helm chart for Kubernetes
     digest: 6489bb6e4bd00e46c6c71cb9eb4e5071f7aed7c231e403824a4c28a8357c63da
     name: helm-django
@@ -12,7 +12,7 @@ entries:
     version: 0.1.0+3
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2019-12-16T17:02:27.869546-08:00"
+    created: "2019-12-16T17:21:42.021924-08:00"
     description: A Helm chart for Kubernetes
     digest: 80a8f44def13fc6a636ba0009fff9dbe1f602a7fc5a8e300b4df9a8edbb6b7ce
     name: helm-django
@@ -21,11 +21,11 @@ entries:
     version: 0.1.0+4
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2019-12-16T17:02:27.870205-08:00"
+    created: "2019-12-16T17:21:42.022636-08:00"
     description: A Helm chart for Kubernetes
-    digest: a023eecca48b504b4e17819fccc297d264745d84f1bc6e112d43e5d232c7f585
+    digest: f8f516d1233b64079e8e179d5cdc7051463eeca7b3cd287715b584f3575a26bc
     name: helm-django
     urls:
     - https://jengo.github.io/helm-charts/charts/helm-django-0.1.0+6.tgz
     version: 0.1.0+6
-generated: "2019-12-16T17:02:27.863486-08:00"
+generated: "2019-12-16T17:21:42.015776-08:00"
