@@ -3,7 +3,20 @@ entries:
   helm-django:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-07-09T00:24:31.238233764Z"
+    created: "2021-07-09T00:34:25.636267499Z"
+    description: A Helm chart for Kubernetes
+    digest: 2e89ccb5dddacb36ed0359e58ebf5bd1995bc050a9bf7dbf113362c2a2eaaadc
+    maintainers:
+    - email: dev.toaster@gmail.com
+      name: Jolene Engo
+    name: helm-django
+    type: application
+    urls:
+    - https://jengo.github.io/helm-charts/helm-django-0.5.9+5df27a0.tgz
+    version: 0.5.9+5df27a0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-07-09T00:34:25.637077168Z"
     description: A Helm chart for Kubernetes
     digest: a8575156c2b7d745a18f3ba620bbb9ae5799ab820d9f31770d11885a497683f7
     maintainers:
@@ -14,4 +27,4 @@ entries:
     urls:
     - https://jengo.github.io/helm-charts/helm-django-0.5.9+8b571c6.tgz
     version: 0.5.9+8b571c6
-generated: "2021-07-09T00:24:31.236307623Z"
+generated: "2021-07-09T00:34:25.635276706Z"
